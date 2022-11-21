@@ -242,3 +242,13 @@ emshedulersvc.com/vc/vc
 http://lutanedukasi.co.id/wp-includes/Cikncbxlojqanjsfotzhopechujkgkeeyz.exe
 http://lutanedukasi.co.id/wp-includes/lsbjqoyofgkmqbuleooykdekgopmtglvjl.exe
 https://cdn.discordapp.com/attachments/937614907917078588/1009001073970794576/Lsbjqoyofgkmqbuleooykdekgopmtglr
+http://185.216.71.149/armv4l
+http://185.216.71.149/armv5l
+http://185.216.71.149/armv6l
+http://185.216.71.149/armv7l
+http://185.216.71.149/mips
+http://185.216.71.149/mipsel
+http://185.216.71.149/powerpc
+http://185.216.71.149/sparc
+http://185.216.71.149/sh4
+http://185.216.71.149/bot_arm4_el
